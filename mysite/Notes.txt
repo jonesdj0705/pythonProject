@@ -1,0 +1,8 @@
+docs for:
+
+django.urls path()
+
+path(route, view, kwargs=None, name=None)
+
+NEMO ?'s:
+settings.py "DATABASES" dict = ?
